@@ -6,7 +6,7 @@
 *Building worlds one frame at a time — Unity & Unreal Engine 5*
 
 [![Email](https://img.shields.io/badge/migue.serralvo%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:migue.serralvo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguelserralvo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/miguelserralvo](https://www.linkedin.com/in/miguel-%C3%A1ngel-serralvo-mar%C3%ADn-b24077270/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MiguelSerralvo)
 
 </div>
