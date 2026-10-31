@@ -19,7 +19,7 @@ Game Programmer with a Degree in Game Design and a Master's in Game Programming.
 
 My strengths sit at the intersection of code and design: I'm as comfortable writing C++ input systems as I am thinking through UX flows and UI implementation. I care about the full picture — clean code, good feel, and polished player experience.
 
-- 🚀 Shipped **Not My War** (UE5) at 24 Pack Studios — *94% Very Positive on Steam*
+- 🚀 Shipped **Not My War** (UE5) at 24 Pack Studios — *91% Very Positive on Steam*
 - ⚙️ Shipped **Mercapolis** (Unity) as solo programmer at Espetos Studios
 - 🌱 Currently leveling up in **Unreal Engine · C++ · UI Development**
 - 💬 Ask me about **Unity, C#, Blueprint scripting, game systems**
@@ -117,5 +117,5 @@ Open to new projects, collaborations, or just a good conversation about game dev
 ---
 
 <div align="center">
-  <sub>⚡ Fueled by caffeine and respawn screens · Madrid 🇪🇸</sub>
+  <sub>⚡ Fueled by caffeine and respawn screens · Málaga 🇪🇸</sub>
 </div>
